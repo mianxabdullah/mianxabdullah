@@ -44,11 +44,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mianxabdullah&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianxabdullah&layout=compact&theme=github_dark" width="40%" />
 </p>
-
-> ✨ _Replace `mianxabdullah` with your actual GitHub username!_
 
 ---
 
