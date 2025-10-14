@@ -27,6 +27,8 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
   <img src="https://img.icons8.com/color/48/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" />
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
@@ -40,6 +42,7 @@
   <img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" alt="VS Code" />
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
   <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/jupyter.png" alt="Jupyter Notebook" />
 </p>
 
 ---
@@ -67,11 +70,15 @@
 
 ## 🎯 Goals Checklist
 
-- [x] Improve C++ and Python problem-solving  
-- [x] Learn Git and GitHub fundamentals  
-- [ ] Build 5+ beginner projects  
-- [ ] Contribute to an open-source project  
-- [ ] Learn data visualization using Python  
+- [x] Strengthened C++ and Python fundamentals  
+- [x] Learned Git and GitHub workflow  
+- [x] Built small C++ and Python projects  
+- [ ] Learn and apply **Machine Learning**  
+- [ ] Master **Pandas**, **NumPy**, and **Matplotlib**  
+- [ ] Build a **Data Visualization Dashboard**  
+- [ ] Contribute to an open-source Data Science project  
+- [ ] Create a full **Data Science Portfolio**  
+  
 
 ---
 
