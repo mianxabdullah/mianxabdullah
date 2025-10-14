@@ -1,6 +1,6 @@
 <!-- 🌟 Static Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mianxabdullah/mianxabdullah/main/assets/banner.png" alt="Abdullah Ayub Banner" width="800" />
+  <img src="1760423459884.jpg" alt="Abdullah Ayub Banner" width="800" />
 </p>
 
 # 👋 Hi there! I'm Abdullah Ayub
