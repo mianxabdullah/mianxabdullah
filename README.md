@@ -49,10 +49,13 @@
 
 ## 📚 Current Focus
 
-- Strengthening my **problem-solving** skills in C++ & Python  
-- Learning **Git** and **GitHub** for version control and collaboration  
-- Building beginner-friendly **projects** to apply my learning  
-- Exploring **Data Science** foundations like statistics, data wrangling, and visualization  
+- Deepening my understanding of **Data Science**, **Machine Learning**, and **AI fundamentals**  
+- Working with **Python libraries** like **NumPy**, **Pandas**, and **Matplotlib** for data analysis  
+- Exploring **data visualization** and storytelling through interactive dashboards  
+- Learning about **databases** (MySQL) and **API integration** for real-world projects  
+- Building small, practical projects to strengthen my portfolio  
+- Enhancing my **problem-solving** and **debugging** skills through competitive programming  
+  
 
 ---
 
