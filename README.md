@@ -1,7 +1,24 @@
+<!-- 🌟 Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF" />
+</p>
+
 # 👋 Hi there! I'm Abdullah Ayub
 
 🎓 A passionate **BS Data Science** student at **University of the Punjab, PUCIT**  
 💻 Exploring the world of programming, data, and development
+
+---
+
+## 🧭 Table of Contents
+- [About Me](#-hi-there-im-abdullah-ayub)
+- [Tech Stack & Tools](#-tech-stack--tools)
+- [Tools](#-tools)
+- [Current Focus](#-current-focus)
+- [Projects Overview](#-projects-overview)
+- [Goals Checklist](#-goals-checklist)
+- [GitHub Stats](#-github-stats)
+- [Contact Me](#-connect-with-me)
 
 ---
 
@@ -14,6 +31,8 @@
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
 </p>
+
+---
 
 ## 🧰 Tools
 
@@ -30,14 +49,29 @@
 - Strengthening my **problem-solving** skills in C++ & Python  
 - Learning **Git** and **GitHub** for version control and collaboration  
 - Building beginner-friendly **projects** to apply my learning  
-- Exploring **Data Science** foundations like statistics, data wrangling, and visualization
+- Exploring **Data Science** foundations like statistics, data wrangling, and visualization  
 
 ---
 
-## 📂 Projects & Repositories
+## 🧩 Projects Overview
 
-> I’ll be uploading small, clean, and useful projects — so stay tuned!  
-> From **C++ console apps** to **Python scripts** and **web experiments**, you’ll find it here.
+| Project Name | Description | Technologies |
+|---------------|-------------|---------------|
+| [TicTacToe-Game](https://github.com/mianxabdullah/Tic-tac-toe-.git) | C++ Project : TicTacToe Game | c++ |
+| [Cash-Receipt](https://github.com/mianxabdullah/cashmemo-receipt.git) | Python project for data visualization | C++ , OOP |
+| [MyExceptionClass](https://github.com/mianxabdullah/My-Exception-Class.git) | C++ made my own exception class | C++ |
+
+> 📁 *More projects coming soon — stay tuned!*
+
+---
+
+## 🎯 Goals Checklist
+
+- [x] Improve C++ and Python problem-solving  
+- [x] Learn Git and GitHub fundamentals  
+- [ ] Build 5+ beginner projects  
+- [ ] Contribute to an open-source project  
+- [ ] Learn data visualization using Python  
 
 ---
 
@@ -52,9 +86,11 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/mianxabdullah) 
-- 📬 Email me (mian.abdullah.ayub@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/mianxabdullah)  
+- 📬 **Email:** [mian.abdullah.ayub@gmail.com](mailto:mian.abdullah.ayub@gmail.com)
 
 ---
 
-> ⚡ _“Code. Learn. Build. Repeat.”_
+> ⚡ *“Code. Learn. Build. Repeat.”*
+
+---
