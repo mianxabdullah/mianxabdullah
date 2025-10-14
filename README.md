@@ -41,8 +41,8 @@
 <p align="left">
   <img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" alt="VS Code" />
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
-  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" />
-  <img src="https://img.icons8.com/color/48/jupyter.png" alt="Jupyter Notebook" />
+   <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" alt="Jupyter Notebook" />
 </p>
 
 ---
