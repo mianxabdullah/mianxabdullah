@@ -1,6 +1,6 @@
 <!-- 🌟 Static Banner -->
 <p align="center">
-  <img src="1760423459884.jpg" alt="Abdullah Ayub Banner" width="800" />
+  <img src="banner.jpg" alt="Abdullah Ayub Banner" width="800" />
 </p>
 
 # 👋 Hi there! I'm Abdullah Ayub
