@@ -1,6 +1,6 @@
-<!-- 🌟 Animated Banner -->
+<!-- 🌟 Static Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF" />
+  <img src="https://raw.githubusercontent.com/mianxabdullah/mianxabdullah/main/assets/banner.png" alt="Abdullah Ayub Banner" width="800" />
 </p>
 
 # 👋 Hi there! I'm Abdullah Ayub
