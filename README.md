@@ -63,9 +63,11 @@
 
 | Project Name | Description | Technologies |
 |---------------|-------------|---------------|
-| [TicTacToe-Game](https://github.com/mianxabdullah/Tic-tac-toe-.git) | C++ Project : TicTacToe Game | c++ |
-| [Cash-Receipt](https://github.com/mianxabdullah/cashmemo-receipt.git) | Python project for data visualization | C++ , OOP |
-| [MyExceptionClass](https://github.com/mianxabdullah/My-Exception-Class.git) | C++ made my own exception class | C++ |
+| [Cricket-Players-Stats](https://github.com/mianxabdullah/cricket_batsman_stats_prediction) | Cricket Players Stats and Prediction App | Python,Pandas,Numpy,Scikit-learn |
+| [Fitness-Chatbot](https://github.com/mianxabdullah/fitness-chatbot) | Fitness Chatbot | Python,Groq |
+| [RAG](https://github.com/mianxabdullah/RAG) | RAG-Based Chatbot with PDF Support | Python,Scikit-Learn,Groq,Numpy |
+| [Car-Price-Analysis](https://github.com/mianxabdullah/Car_Price_Analysis) | Car Price Analysis | Python,Scikit-Learn,Pandas,Matplotlib |
+| [TicTacToe-Game](https://github.com/mianxabdullah/Tic-tac-toe-.git) | TicTacToe Game | C++ |
 
 > 📁 *More projects coming soon — stay tuned!*
 
