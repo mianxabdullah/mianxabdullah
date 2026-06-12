@@ -32,6 +32,9 @@
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" alt="Scikit-Learn" />
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" />
 </p>
 
 ---
@@ -42,6 +45,7 @@
   <img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" alt="VS Code" />
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" alt="Power BI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" alt="Jupyter Notebook" />
 </p>
 
