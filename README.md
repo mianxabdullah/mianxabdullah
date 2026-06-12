@@ -1,7 +1,7 @@
 <!-- 🌟 Banner -->
 
 <p align="center">
-  <img src="banner.jpg" alt="Abdullah Ayub Banner" width="850" />
+  <img src="00faf585-486d-4d0d-a663-20dad7aff1bb.png" alt="Abdullah Ayub Banner" width="850" />
 </p>
 
 # 👋 Hi there! I'm Abdullah Ayub
