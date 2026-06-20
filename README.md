@@ -99,6 +99,7 @@ I enjoy building practical projects, analyzing datasets, creating dashboards, an
 
 * 💼 LinkedIn: https://www.linkedin.com/in/mianxabdullah
 * 📧 Email: [mian.abdullah.ayub@gmail.com](mailto:mian.abdullah.ayub@gmail.com)
+* 📊 Portfolio: https://github.com/mianxabdullah
 
 ---
 
