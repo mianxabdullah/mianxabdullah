@@ -4,15 +4,15 @@
   <img src="00faf585-486d-4d0d-a663-20dad7aff1bb.png" alt="Abdullah Ayub Banner" width="850" />
 </p>
 
-# 👋 Hi there! I'm Abdullah Ayub
+# Hi there! I'm Abdullah Ayub
 
-🎓 **BS Data Science** student at **University of the Punjab, PUCIT**
-📊 Interested in **Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence**
-🚀 Passionate about turning data into insights and building impactful solutions
+**BS Data Science** student at **University of the Punjab, PUCIT**
+Interested in **Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence**
+Passionate about turning data into insights and building impactful solutions
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Data Science student with a strong interest in data-driven problem solving and intelligent systems.
 
@@ -22,7 +22,7 @@ I enjoy building practical projects, analyzing datasets, creating dashboards, an
 
 ---
 
-## 🚀 Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
@@ -37,7 +37,7 @@ I enjoy building practical projects, analyzing datasets, creating dashboards, an
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" />
 </p>
 
-### 🧰 Tools
+### Tools
 
 <p align="left">
   <img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" alt="VS Code" />
@@ -49,7 +49,7 @@ I enjoy building practical projects, analyzing datasets, creating dashboards, an
 
 ---
 
-## 🔭 Current Focus
+## Current Focus
 
 * Building end-to-end Machine Learning projects
 * Exploring AI-powered applications and LLMs
@@ -60,33 +60,33 @@ I enjoy building practical projects, analyzing datasets, creating dashboards, an
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project                            | Tech                                     | Description                                                                    |
 | ---------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------ |
-| 🏏 Cricket Player Stats Prediction | Python, Pandas, NumPy, Scikit-Learn      | Predicting cricket player performance using machine learning.                  |
-| 🤖 Fitness Chatbot                 | Python, Groq                             | AI-powered chatbot for fitness-related guidance and queries.                   |
-| 📄 RAG Chatbot                     | Python, Scikit-Learn, Groq               | Retrieval-Augmented Generation chatbot with PDF document support.              |
-| 🚗 Car Price Analysis              | Python, Pandas, Matplotlib, Scikit-Learn | Data analysis and predictive modeling of car prices.                           |
-| 🎮 Tic Tac Toe                     | C++                                      | Console-based game demonstrating programming fundamentals and problem-solving. |
+| Cricket Player Stats Prediction | Python, Pandas, NumPy, Scikit-Learn      | Predicting cricket player performance using machine learning.                  |
+| Fitness Chatbot                 | Python, Groq                             | AI-powered chatbot for fitness-related guidance and queries.                   |
+| RAG Chatbot                     | Python, Scikit-Learn, Groq               | Retrieval-Augmented Generation chatbot with PDF document support.              |
+| Car Price Analysis              | Python, Pandas, Matplotlib, Scikit-Learn | Data analysis and predictive modeling of car prices.                           |
+| Tic Tac Toe                     | C++                                      | Console-based game demonstrating programming fundamentals and problem-solving. |
 
 👉 **Explore all repositories:** https://github.com/mianxabdullah?tab=repositories
 
 ---
 
-## 📚 Areas of Interest
+## Areas of Interest
 
-* 📊 Data Analytics
-* 🤖 Machine Learning
-* 🧠 Artificial Intelligence
-* 📈 Data Visualization
-* 💼 Business Intelligence
-* 📉 Predictive Modeling
-* ⚡ Problem Solving
+* Data Analytics
+* Machine Learning
+* Artificial Intelligence
+* Data Visualization
+* Business Intelligence
+* Predictive Modeling
+* Problem Solving
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mianxabdullah&show_icons=true&theme=github_dark" width="48%" />
@@ -95,11 +95,11 @@ I enjoy building practical projects, analyzing datasets, creating dashboards, an
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/mianxabdullah
-* 📧 Email: [mian.abdullah.ayub@gmail.com](mailto:mian.abdullah.ayub@gmail.com)
-* 📊 Portfolio: https://github.com/mianxabdullah
+* LinkedIn: https://www.linkedin.com/in/mianxabdullah
+* Email: [mian.abdullah.ayub@gmail.com](mailto:mian.abdullah.ayub@gmail.com)
+* Portfolio: https://github.com/mianxabdullah
 
 ---
 
